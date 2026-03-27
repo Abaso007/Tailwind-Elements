@@ -31,7 +31,6 @@ TW Elements is a huge collection of free, interactive components for Tailwind CS
 
 - [Table of Contents](#table-of-contents)
 - [Community](#community)
-- [Coming soon](#coming-soon)
 - [Components](#components)
 - [Design blocks](#design-blocks)
 - [Installation](#installation)
@@ -64,30 +63,6 @@ Thank you!
 
 ---
 
-## Coming soon
-
-Check out the upcoming features - make sure to **join the waiting list** in order to **get early access**!
-
- <table>
-  <tr>
-    <td>
-        <a href="https://tw-elements.com/docs/standard/builder/">
-            <img alt="Design blocks" src="https://mdbootstrap.com/img/tw-demo/drag-and-drop.webp">
-        </a>
-    </td>
-    <td>
-        <a href="https://tw-elements.com/docs/standard/templates/">
-            <img alt="Templates" src="https://mdbootstrap.com/img/tw-demo/templates.webp">
-        </a>
-    </td>    
-  </tr>
-  <tr>
-    <td align="center"><b>Drag & drop builder</b></td>
-    <td align="center"><b>Templates</b></td>
-  </tr>
-</table>
-
----
 
 ## Components
 
