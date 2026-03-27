@@ -5,4 +5,4 @@ Documentation:
 https://tw-elements.com/
 
 Contact:
-tailwind@mdbootstrap.com
+hello@mdbootstrap.com
